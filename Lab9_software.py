@@ -35,7 +35,6 @@ def main():
         elif option == '3':
             break
 
-#111222
 
 if __name__ == "__main__":
     main()
