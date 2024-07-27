@@ -34,7 +34,7 @@ def main():
                 print("No encoded password found. Please encode a password first.")
         elif option == '3':
             break
-#11
+
 
 if __name__ == "__main__":
     main()
